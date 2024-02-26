@@ -77,37 +77,6 @@ export default function HalamanUtama() {
           </div>
         </div>
       </div>
-
-      <div id="fh5co-featured-testimony" className="fh5co-section">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-12 fh5co-heading animate-box">
-              <h2>Testimony</h2>
-              <div className="row">
-                <div className="col-md-6">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit
-                    itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam
-                    voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique
-                    commodi omnis.</p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
-              <img src="images/person_1.jpg" alt="" />
-            </div>
-            <div className="col-md-7 animate-box" data-animate-effect="fadeInRight">
-              <blockquote>
-                <p> &ldquo; Quantum ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab
-                  debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus
-                  aliquam voluptates corporis et tempora consequuntur ipsam. &rdquo;</p>
-                <p className="author"><cite>&mdash; Jane Smith</cite></p>
-              </blockquote>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div id="fh5co-slider" className="fh5co-section animate-box">
         <div className="container">
           <div className="row">
@@ -200,11 +169,7 @@ export default function HalamanUtama() {
         <div className="container">
           <div className="row animate-box">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-              <h2>Events</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, consequatur. Aliquam quaerat
-                pariatur repellendus veniam nemo, saepe, culpa eius aspernatur cumque suscipit quae nobis
-                illo tempora. Eum veniam necessitatibus, blanditiis facilis quidem dolore! Dolorem,
-                molestiae.</p>
+              <h2>Artikel UMKM</h2>
             </div>
           </div>
           <div className="row">
