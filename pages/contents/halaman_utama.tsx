@@ -10,14 +10,8 @@ export default function HalamanUtama() {
             <div className="col-md-5 col-md-push-1 animate-box">
               <div className="section-heading">
                 <h2>UMKM Desa Durian</h2>
-                <p style={{ color: "white" }}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae neque quisquam at
-                  deserunt ab praesentium architecto tempore saepe animi voluptatem molestias, eveniet aut
-                  laudantium alias, laboriosam excepturi, et numquam? Atque tempore iure tenetur
-                  perspiciatis, aliquam, asperiores aut odio accusamus, unde libero dignissimos quod
-                  aliquid neque et illo vero nesciunt. Sunt!</p>
-                <p style={{ color: "white" }}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam iure reprehenderit nihil
-                  nobis laboriosam beatae assumenda tempore, magni ducimus abentey.</p>
-                <p><a href="#" className="btn btn-primary btn-outline">Our History</a></p>
+                <p style={{ color: "white" }}>Desa Durian, sebuah desa yang terletak di pesisir pantai, terkenal dengan mayoritas UMKM-nya yang bergerak di bidang pengolahan ikan asin. Aroma khas ikan asin tercium di udara saat memasuki desa ini, menandakan geliat ekonomi yang berputar dari hasil laut.</p>
+                {/* <p><a href="#" className="btn btn-primary btn-outline">Our History</a></p> */}
               </div>
             </div>
           </div>
@@ -28,15 +22,15 @@ export default function HalamanUtama() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 fh5co-heading animate-box">
-              <h2>Today's Menu</h2>
-              <div className="row">
+              <h2>Beberapa Daftar UMKM</h2>
+              {/* <div className="row">
                 <div className="col-md-6">
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit
                     itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam
                     voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique
                     commodi omnis. Ad magni perspiciatis, voluptatum repellat.</p>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
