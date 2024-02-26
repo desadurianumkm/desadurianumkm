@@ -37,20 +37,16 @@ export default function HalamanUtama() {
               <div className="fh5co-item">
                 <img src="images/gallery_9.jpeg" className="img-responsive"
                   alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co" />
-                <h3>Bake Potato Pizza</h3>
-                <span className="fh5co-price">$20<sup>.50</sup></span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero
-                  alias quaerat inventore molestias vel suscipit explicabo.</p>
+                <h3>Mie Pentol & Mie Ayam</h3>
+                
               </div>
             </div>
             <div className="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
               <div className="fh5co-item margin_top">
                 <img src="images/gallery_8.jpeg" className="img-responsive"
                   alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co" />
-                <h3>Salted Fried Chicken</h3>
-                <span className="fh5co-price">$19<sup>.00</sup></span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero
-                  alias quaerat inventore molestias vel suscipit explicabo.</p>
+                <h3>Es Jagung Hawai & Batagor</h3>
+                
               </div>
             </div>
             <div className="clearfix visible-sm-block visible-xs-block"></div>
@@ -58,20 +54,16 @@ export default function HalamanUtama() {
               <div className="fh5co-item">
                 <img src="images/gallery_7.jpeg" className="img-responsive"
                   alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co" />
-                <h3>Italian Sauce Mushroom</h3>
-                <span className="fh5co-price">$17<sup>.99</sup></span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero
-                  alias quaerat inventore molestias vel suscipit explicabo.</p>
+                <h3>Angkringan "KUNCINGAN"</h3>
+                
               </div>
             </div>
             <div className="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
               <div className="fh5co-item margin_top">
                 <img src="images/gallery_6.jpeg" className="img-responsive"
                   alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co" />
-                <h3>Fried Potato w/ Garlic</h3>
-                <span className="fh5co-price">$22<sup>.50</sup></span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero
-                  alias quaerat inventore molestias vel suscipit explicabo.</p>
+                <h3>Kue Basah & Kering</h3>
+                
               </div>
             </div>
           </div>
@@ -82,9 +74,6 @@ export default function HalamanUtama() {
           <div className="row">
             <div className="col-md-6 animate-box">
               <div className="fh5co-heading">
-                <h2>Our Best <em>&amp;</em> Unique Menu</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit
-                  itaque totam, a maiores nihil, nulla magnam porro minima officiis!</p>
               </div>
             </div>
             <div className="col-md-6 col-md-push-1 animate-box">
@@ -99,12 +88,7 @@ export default function HalamanUtama() {
                             className="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
                             <div className="slider-text-inner">
                               <div className="desc">
-                                <h2>Crab <em>with</em> Curry Sources</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                  Sunt eveniet quae, numquam magnam doloribus eligendi
-                                  ratione rem, consequatur quos natus voluptates est totam
-                                  magni! Nobis a temporibus, ipsum repudiandae dolorum.
-                                </p>
+                               
                                 <p><a href="#" className="btn btn-primary btn-outline">Learn
                                   More</a></p>
                               </div>
@@ -121,12 +105,7 @@ export default function HalamanUtama() {
                             className="col-md-12 col-md-offset-0 col-md-pull-10 slider-text slider-text-bg">
                             <div className="slider-text-inner">
                               <div className="desc">
-                                <h2>Tuna <em>&amp;</em> Roast Beef</h2>
-                                <p>Ink is a free html5 bootstrap and a multi-purpose
-                                  template perfect for any type of websites. A combination
-                                  of a minimal and modern design template. The features
-                                  are big slider on homepage, smooth animation, product
-                                  listing and many more</p>
+                               
                                 <p><a href="#" className="btn btn-primary btn-outline">Learn
                                   More</a></p>
                               </div>
