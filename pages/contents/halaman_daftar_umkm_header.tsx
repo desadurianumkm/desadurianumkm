@@ -1,4 +1,4 @@
-export default function HalamanUtamaHeader() {
+export default function HalamanHeaderDaftarUMKM() {
   return (
     <>
       <header id="fh5co-header" className="fh5co-cover js-fullheight" role="banner"
@@ -18,5 +18,5 @@ export default function HalamanUtamaHeader() {
         </div>
       </header>
     </>
-  )
+  );
 }
